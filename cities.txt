@@ -1,0 +1,12 @@
+Marseille
+Paris
+Cluj-Napoca
+New-York
+San-Francisco
+-------------------
+Marseille Paris 775
+Paris Cluj-Napoca 1850
+Cluj-Napoca New-York 7100
+New-York Marseille 6170
+New-York Paris 5680
+San-Francisco Paris 8900
